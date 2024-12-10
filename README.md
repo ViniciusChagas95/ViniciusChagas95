@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniciusChagas95
 - 👀 I’m interested at the moment in developing myself better and getting better and better.
-- 🌱 I’m currently learning Python and Javascript.
+- 🌱 I’m currently learning Python, Java, .Net and React
 - 💞️ I’m looking to collaborate on what I can collaborate, I'm in the learning phase
 
 
